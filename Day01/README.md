@@ -7,5 +7,4 @@
 
 ---
 
-## 🔗 Excel Models
-- [cashflow-structure.xlsx](./cashflow-structure.xlsx)
+
